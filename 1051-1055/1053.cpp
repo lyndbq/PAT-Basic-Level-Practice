@@ -25,6 +25,6 @@ int main()
     for(int i=0; i<N; i++)
         solve();
 
-    printf("%.1lf%% %.1lf%%", (a/N)*100, (b/N)*100);
+    printf("%.1lf%% %.1lf%%",(b/N)*100,(a/N)*100);
 
 }
