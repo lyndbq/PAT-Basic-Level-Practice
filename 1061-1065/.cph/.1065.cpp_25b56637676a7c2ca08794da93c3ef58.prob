@@ -1,0 +1,1 @@
+{"name":"Local: 1065","url":"d:\\Work\\VSCode\\PTA\\1061-1065\\1065.cpp","tests":[{"id":1705069529467,"input":"3\n11111 22222\n33333 44444\n55555 66666\n6\n11111 22222\n33333 44444\n55555 66666","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\VSCode\\PTA\\1061-1065\\1065.cpp","group":"local","local":true}
