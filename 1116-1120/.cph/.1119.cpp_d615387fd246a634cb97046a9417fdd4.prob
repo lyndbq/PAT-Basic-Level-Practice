@@ -1,0 +1,1 @@
+{"name":"Local: 1119","url":"d:\\Work\\VSCode\\PTA\\1116-1120\\1119.cpp","tests":[{"id":1706720979441,"input":"10\n180 160 100 150 145 142 138 138 138 140","output":"400 300 200 500 400 300 200 200 200 300"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\VSCode\\PTA\\1116-1120\\1119.cpp","group":"local","local":true}
