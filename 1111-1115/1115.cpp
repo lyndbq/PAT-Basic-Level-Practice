@@ -36,6 +36,10 @@ int main()
             }
         }
     }
+    if(L.size() == N){
+        cout << "No winner.";
+        return 0;
+    }
     cout << "Winner(s): ";
     vector<int> T;
     for(int i=1; i<=N; i++)
