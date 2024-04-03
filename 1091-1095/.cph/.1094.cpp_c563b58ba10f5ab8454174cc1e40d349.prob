@@ -1,0 +1,1 @@
+{"name":"Local: 1094","url":"d:\\Work\\VSCode\\PTA\\1091-1095\\1094.cpp","tests":[{"id":1712124301038,"input":"20 5\n23654987725541023819","output":""},{"id":1712124317246,"input":"10 3\n2468001680","output":"404"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\VSCode\\PTA\\1091-1095\\1094.cpp","group":"local","local":true}

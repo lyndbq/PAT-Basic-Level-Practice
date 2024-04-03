@@ -7,6 +7,8 @@ string jw(int i, int D, string s)
 {
     int k = 1;
     for(int j=i+D; j>=0; j--){
+        if(j == i)
+            continue;
         int a = s[j]-'0'+k;
         s[j] = a%10+'0';
         k = a / 10;
